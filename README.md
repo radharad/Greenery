@@ -20,9 +20,6 @@ This is a Natural Theorpy website built using HTML, CSS, and JavaScript and Mode
 ## Contact Information:
 For any inquiries or feedback, please email me at komalsatpute950@gmail.com
 
-## Demo Link:
-You can view the live demo [here]().
-
 ## FAQs:
 - **Q:** How can I contribute to this project?
   **A:** Follow the contributing guidelines mentioned above.
